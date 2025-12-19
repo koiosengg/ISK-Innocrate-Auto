@@ -17,7 +17,7 @@ function Home() {
       <Services />
       <Trailer />
       <ISK />
-      {/* <Testimony /> */}
+      <Testimony />
       <Contact />
     </>
   );
