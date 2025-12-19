@@ -23,9 +23,8 @@ function Information() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Plot No. G-503, Kishan Gate, <br className="desktop" /> Kalawad Rd,
-            Lodhika GIDC, Metoda, <br className="desktop" /> Rajkot, Gujarat
-            360021
+            Plot No. G 530, Kishan Gate No. 03, Lodhika. G.I.D.C., Kalawad Road,
+            Metoda. 360021, (Rajkot)
           </a>
         </address>
       </article>

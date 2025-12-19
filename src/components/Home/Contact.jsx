@@ -12,8 +12,9 @@ function Contact() {
           <header className="footer-contact-header">
             <h2>Let’s Build Something Reliable</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio sem
-              vitae egestas. Orci pharetra nisi fringilla cras vestibulum dolor.
+              Chassis of change, frames of the future.
+              <br /> Share your challenge with us and explore reliable,
+              performance-driven vehicle solutions.
             </p>
           </header>
 

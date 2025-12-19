@@ -14,9 +14,9 @@ function Banner() {
           Manufacturing Excellence in <span>Vehicle Machine Parts</span>
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur. Pellentesque proin vulputate
-          at scelerisque. Dui ullamcorper risus lobortis donec risus et ac
-          vulputate. Scelerisque nunc consequat diam pellentesque.
+          We design and manufacture high-precision vehicle components with a
+          strong focus on L3 and L5 platforms, combining engineering expertise,
+          innovation, and dependable manufacturing standards.
         </p>
       </header>
     </section>
