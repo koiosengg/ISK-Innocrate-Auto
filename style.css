@@ -1317,7 +1317,8 @@ footer {
     top: auto;
   }
 
-  .home-banner header h1 {
+  .home-banner header h1,
+  .contact-banner h1 {
     color: var(--Color-black-Primary, #111);
     text-align: center;
     font-family: "DM Sans";
@@ -1327,7 +1328,8 @@ footer {
     line-height: normal;
   }
 
-  .home-banner header p {
+  .home-banner header p,
+  .contact-banner p {
     color: var(--Color-black-400, #414141);
     text-align: center;
     font-family: "DM Sans";
@@ -1530,6 +1532,28 @@ footer {
     font-weight: 400;
     line-height: normal;
   }
+
+  /* Contact */
+
+  .contact-banner {
+    padding: 52px 20px;
+  }
+
+  .contact-form {
+    padding: 48px 20px;
+  }
+
+  .contact-form-fields {
+    flex-direction: column;
+  }
+
+  .contact-information {
+    padding: 64px 20px;
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  /* Footer */
 
   footer {
     padding: 40px 20px;

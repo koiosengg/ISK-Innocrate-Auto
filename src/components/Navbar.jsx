@@ -22,7 +22,7 @@ function Navbar() {
   return (
     <header className="site-header">
       <nav className="navbar" aria-label="Primary navigation">
-        <Link to="/" className="navbar-logo">
+        <Link to="/" className="navbar-logo" onClick={handleLinkClick}>
           <img src={Logo} alt="Company logo" />
         </Link>
 
