@@ -1,5 +1,6 @@
 import React from "react";
 import DesktopBackground from "../../assets/Home/Banner/Desktop Background.svg";
+import MobileBackground from "../../assets/Home/Banner/Mobile Background.svg";
 
 function Banner() {
   return (
@@ -7,7 +8,12 @@ function Banner() {
       <img
         src={DesktopBackground}
         alt="Banner desktop background"
-        className="home-banner-background"
+        className="home-banner-background desktop"
+      />
+      <img
+        src={MobileBackground}
+        alt="Banner desktop background"
+        className="home-banner-background mobile"
       />
       <header>
         <h1>

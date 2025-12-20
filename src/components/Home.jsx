@@ -7,6 +7,7 @@ import Services from "./Home/Services";
 import Trailer from "./Home/Trailer";
 import ISK from "./Home/ISK";
 import Testimony from "./Home/Testimony";
+import Products from "./Home/Products";
 
 function Home() {
   return (
@@ -17,6 +18,7 @@ function Home() {
       <Services />
       <Trailer />
       <ISK />
+      <Products />
       <Testimony />
       <Contact />
     </>

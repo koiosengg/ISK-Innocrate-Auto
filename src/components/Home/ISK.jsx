@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "/Logo.svg";
+import Logo from "/ISK.svg";
 
 function ISK() {
   return (

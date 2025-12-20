@@ -87,7 +87,7 @@ function Testimony() {
             ))}
           </div>
         </div>
-        <div className="home-testimony-arrows">
+        <div className="home-testimony-arrows desktop">
           <button onClick={handlePrev} disabled={currentIndex === 0}>
             <svg
               xmlns="http://www.w3.org/2000/svg"

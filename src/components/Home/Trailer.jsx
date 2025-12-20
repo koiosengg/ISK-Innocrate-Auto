@@ -1,6 +1,9 @@
 import React, { useState } from "react";
 import Img1 from "../../assets/Home/Trailer/Image 1.png";
 import Img2 from "../../assets/Home/Trailer/Image 2.png";
+import Img3 from "../../assets/Home/Trailer/Image 3.png";
+import Img4 from "../../assets/Home/Trailer/Image 4.png";
+import Img5 from "../../assets/Home/Trailer/Image 5.png";
 
 function Trailer() {
   const [activeTab, setActiveTab] = useState("Bajaj");
@@ -52,14 +55,14 @@ function Trailer() {
         {activeTab === "Bajaj" && (
           <div className="home-trailer-cards" id="Bajaj">
             <article>
-              <img src={Img1} alt="3rd Gen Rear Hub" />
+              <img src={Img1} alt="Premium Trailer Arm" />
               <div className="home-services-text">
-                <h3>3rd Gen Rear Hub</h3>
+                <h3>Premium Trailer Arm</h3>
                 <p>Bajaj RE/Compact</p>
               </div>
             </article>
             <article>
-              <img src={Img1} alt="3rd Gen Rear Hub" />
+              <img src={Img2} alt="3rd Gen Rear Hub" />
               <div className="home-services-text">
                 <h3>3rd Gen Rear Hub</h3>
                 <p>Bajaj All Models | TVS | Piaggio | Mahindra | Atul</p>
@@ -71,10 +74,10 @@ function Trailer() {
         {activeTab === "Mahindra" && (
           <div className="home-trailer-cards" id="Mahindra">
             <article>
-              <img src={Img1} alt="3rd Gen Rear Hub" />
+              <img src={Img3} alt="3rd Gen Rear Hub" />
               <div className="home-services-text">
                 <h3>3rd Gen Rear Hub</h3>
-                <p>Bajaj RE/Compact</p>
+                <p>Mahindra Alfa</p>
               </div>
             </article>
             <article>
@@ -90,14 +93,14 @@ function Trailer() {
         {activeTab === "Piaggio" && (
           <div className="home-trailer-cards" id="Piaggio">
             <article>
-              <img src={Img2} alt="3rd Gen Rear Hub" />
+              <img src={Img4} alt="3rd Gen Piaggio Rear" />
               <div className="home-services-text">
-                <h3>3rd Gen Rear Hub</h3>
-                <p>Bajaj RE/Compact</p>
+                <h3>3rd Gen Piaggio Rear</h3>
+                <p>Piaggio Ape</p>
               </div>
             </article>
             <article>
-              <img src={Img1} alt="3rd Gen Rear Hub" />
+              <img src={Img2} alt="3rd Gen Rear Hub" />
               <div className="home-services-text">
                 <h3>3rd Gen Rear Hub</h3>
                 <p>Bajaj All Models | TVS | Piaggio | Mahindra | Atul</p>
@@ -109,10 +112,10 @@ function Trailer() {
         {activeTab === "Maxima" && (
           <div className="home-trailer-cards" id="Maxima">
             <article>
-              <img src={Img2} alt="3rd Gen Rear Hub" />
+              <img src={Img5} alt="3rd Gen Rear Hub" />
               <div className="home-services-text">
                 <h3>3rd Gen Rear Hub</h3>
-                <p>Bajaj RE/Compact</p>
+                <p>Bajaj Maxima Z</p>
               </div>
             </article>
             <article>

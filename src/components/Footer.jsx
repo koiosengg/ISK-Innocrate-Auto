@@ -18,10 +18,10 @@ function Footer() {
                 <Link to="/about">About</Link>
               </li>
               <li>
-                <Link to="/services">Services</Link>
+                <Link to="/product">Product</Link>
               </li>
               <li>
-                <Link to="/product">Product</Link>
+                <Link to="/services">Services</Link>
               </li>
               <li>
                 <Link to="/contact">Contact</Link>
@@ -37,11 +37,11 @@ function Footer() {
 
           <nav aria-label="Social links">
             <ul>
-              {/* <li>
+              <li>
                 <a href="/" target="_blank" rel="noopener noreferrer">
                   Facebook
                 </a>
-              </li> */}
+              </li>
               <li>
                 <a
                   href="https://www.instagram.com/innocrate_auto"
@@ -51,11 +51,11 @@ function Footer() {
                   Instagram
                 </a>
               </li>
-              {/* <li>
+              <li>
                 <a href="/" target="_blank" rel="noopener noreferrer">
                   Youtube
                 </a>
-              </li> */}
+              </li>
             </ul>
           </nav>
 
