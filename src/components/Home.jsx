@@ -8,6 +8,8 @@ import Trailer from "./Home/Trailer";
 import ISK from "./Home/ISK";
 import Testimony from "./Home/Testimony";
 import Products from "./Home/Products";
+import BrouchureTop from "./Home/BrouchureTop";
+import BrouchureBottom from "./Home/BrouchureBottom";
 
 function Home() {
   return (
@@ -15,11 +17,13 @@ function Home() {
       <Banner />
       <About />
       <Why />
+      <BrouchureTop />
       <Services />
       <Trailer />
       <ISK />
       <Products />
       <Testimony />
+      <BrouchureBottom />
       <Contact />
     </>
   );
