@@ -10,9 +10,11 @@ function ISK() {
           Powered by <br /> <span>ISK Auto Industries</span>
         </h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur. Pellentesque proin vulputate
-          at scelerisque. Dui ullamcorper risus lobortis donec risus et ac
-          vulputate.
+          Backed by ISK Auto Industries, a proven OEM in automotive
+          manufacturing, SK2 benefits from decades of engineering expertise,
+          robust production capabilities, and strict quality standards. This
+          strong foundation enables us to deliver reliable, scalable, and
+          industry-ready vehicle components with confidence.
         </p>
       </header>
       <a
@@ -20,7 +22,7 @@ function ISK() {
         target="_blank"
         className="navbar-cta"
       >
-        <span>Let’s Explore</span>
+        <span>Visit ISK Auto Industries</span>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="24"

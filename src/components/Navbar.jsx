@@ -28,13 +28,13 @@ function Navbar() {
 
         <ul className="navbar-links desktop">
           <li>
-            <Link to="/about">About</Link>
+            <a href="#about">About</a>
           </li>
           <li>
-            <Link to="/product">Product</Link>
+            <a href="#products">Product</a>
           </li>
           <li>
-            <Link to="/services">Services</Link>
+            <a href="#services">Services</a>
           </li>
         </ul>
 
@@ -82,19 +82,19 @@ function Navbar() {
           <nav>
             <ul className="navbar-links desktop">
               <li>
-                <Link to="/about" onClick={handleLinkClick}>
+                <a href="#about" onClick={handleLinkClick}>
                   About
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="/product" onClick={handleLinkClick}>
+                <a href="#products" onClick={handleLinkClick}>
                   Product
-                </Link>
+                </a>
               </li>
               <li>
-                <Link to="/services" onClick={handleLinkClick}>
+                <a href="#services" onClick={handleLinkClick}>
                   Services
-                </Link>
+                </a>
               </li>
             </ul>
             <Link

@@ -7,7 +7,7 @@ import Image5 from "../../assets/Home/About/Image 5.png";
 
 function aBOUT() {
   return (
-    <section className="template">
+    <section className="template" id="about">
       <header className="template-heading">
         <p>
           <span></span> About Us

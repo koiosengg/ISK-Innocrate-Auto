@@ -7,7 +7,7 @@ import Img8 from "../../assets/Home/Products/Disc Caliper Hub Assembly for Teles
 
 function Products() {
   return (
-    <section className="template home-products">
+    <section className="template home-products" id="services">
       <header className="template-heading">
         <p>
           <span></span> Trailer Arms & Front Solutions

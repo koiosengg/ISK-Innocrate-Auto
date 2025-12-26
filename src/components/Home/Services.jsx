@@ -5,7 +5,7 @@ import Img3 from "../../assets/Home/Services/Hydraulic 180 mm Braking System.png
 
 function Services() {
   return (
-    <section className="template home-services">
+    <section className="template home-services"id="products">
       <header className="template-heading">
         <p>
           <span></span> Our Products
