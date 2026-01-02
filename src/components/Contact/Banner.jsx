@@ -8,9 +8,8 @@ function Banner() {
         <span>Help you & Answer your Questions</span>
       </h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur. Pellentesque proin vulputate at
-        scelerisque. Dui ullamcorper risus lobortis donec risus et ac vulputate.
-        Scelerisque nunc consequat diam pellentesque.
+        Share your enquiry through the form below and our team will reach out
+        with the right information soon.
       </p>
     </section>
   );

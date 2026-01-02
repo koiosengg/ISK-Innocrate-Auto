@@ -6,13 +6,13 @@ function BrouchureBottom() {
   return (
     <section className="home-brouchure-bottom">
       <div className="home-brouchure-bottom-heading">
-        <h2>Download Our Brouchure</h2>
+        <h2>Explore Our Brouchure</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio sem vitae
-          egestas. Orci pharetra nisi fringilla cras.
+          Discover our full range of vehicle components with clear technical and
+          application details.
         </p>
         <a href="/" className="navbar-cta ">
-          <span>Download Now</span>
+          <span>Download Brochure</span>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"

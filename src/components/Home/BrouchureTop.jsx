@@ -7,14 +7,13 @@ function BrouchureTop() {
     <section className="home-brouchure-top">
       <img src={DesktopBackground} className="home-brouchure-top-background" />
       <div className="home-brouchure-top-container">
-        <h2>Download Our Brouchure</h2>
+        <h2>Discover What Sets Us Apart</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio{" "}
-          <br className="desktop" /> sem vitae egestas. Orci pharetra nisi
-          fringilla cras.
+          Explore our products, innovations, and engineering strengths in one
+          detailed brochure.
         </p>
         <a href="/" className="navbar-cta ">
-          <span>Download Now</span>
+          <span>Download Brochure Now</span>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"

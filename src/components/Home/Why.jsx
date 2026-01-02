@@ -14,60 +14,60 @@ function Why() {
         <article>
           <img src={Settings} alt="Settings Icon" />
           <div className="home-why-content">
-            <h3>Why Us</h3>
+            <h3>Engineering-First Approach</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio sem
-              vitae egestas. Orci pharetra Justo tellus eu odio sem vitae{" "}
+              Every product is designed with real vehicle conditions in mind,
+              not just drawings and simulations.
             </p>
           </div>
         </article>
         <article>
           <img src={Settings} alt="Settings Icon" />
           <div className="home-why-content">
-            <h3>Why Us</h3>
+            <h3>Specialized in L3 & L5 Platforms</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio sem
-              vitae egestas. Orci pharetra Justo tellus eu odio sem vitae{" "}
+              Deep understanding of three-wheeler and light mobility systems
+              helps us deliver better-matched solutions.
             </p>
           </div>
         </article>
         <article>
           <img src={Settings} alt="Settings Icon" />
           <div className="home-why-content">
-            <h3>Why Us</h3>
+            <h3>Continuous R&D & Innovation</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio sem
-              vitae egestas. Orci pharetra Justo tellus eu odio sem vitae{" "}
+              We actively develop next-generation designs that improve
+              efficiency, sustainability, and ease of maintenance.
             </p>
           </div>
         </article>
         <article>
           <img src={Settings} alt="Settings Icon" />
           <div className="home-why-content">
-            <h3>Why Us</h3>
+            <h3>Reliable Manufacturing Standards</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio sem
-              vitae egestas. Orci pharetra Justo tellus eu odio sem vitae{" "}
+              Consistent quality, controlled processes, and dependable output
+              across every production batch.
             </p>
           </div>
         </article>
         <article>
           <img src={Settings} alt="Settings Icon" />
           <div className="home-why-content">
-            <h3>Why Us</h3>
+            <h3>Focused on Durability & Performance</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio sem
-              vitae egestas. Orci pharetra Justo tellus eu odio sem vitae{" "}
+              Our components are built to improve ride comfort, reduce wear, and
+              perform reliably over time.
             </p>
           </div>
         </article>
         <article>
           <img src={Settings} alt="Settings Icon" />
           <div className="home-why-content">
-            <h3>Why Us</h3>
+            <h3>Responsive & Practical Support</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur. Justo tellus eu odio sem
-              vitae egestas. Orci pharetra Justo tellus eu odio sem vitae{" "}
+              Clear communication, quick responses, and hands-on support
+              throughout development and supply.
             </p>
           </div>
         </article>
